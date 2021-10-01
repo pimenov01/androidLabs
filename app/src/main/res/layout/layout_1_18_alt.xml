@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="@string/push_me"
+        android:visibility="visible"
+        android:layout_marginStart="370dp">
+
+    </Button>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:src="@drawable/wall1"
+        android:visibility="visible"
+        android:contentDescription="@string/image">
+
+    </ImageView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_gravity="start"
+        android:layout_weight="1"
+        android:background="#FF673AB7"
+        android:gravity="center"
+        android:text="@string/hello_n_world"
+        android:textColor="#FFFFFF"
+        android:textSize="16sp"
+        android:visibility="visible">
+
+    </TextView>
+</LinearLayout>

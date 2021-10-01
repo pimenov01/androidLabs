@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+
+    <Button
+        android:layout_width="@dimen/dim_50"
+        android:layout_height="match_parent"
+        android:text="@string/push_mee">
+
+    </Button>
+
+    <ImageView
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:src="@drawable/wall1"
+        android:contentDescription="@string/image">
+
+    </ImageView>
+
+    <TextView
+        android:layout_width="@dimen/dim_50"
+        android:layout_height="match_parent"
+        android:background="#FF673AB7"
+        android:gravity="center"
+        android:text="@string/hello_n_world"
+        android:textColor="#FFFFFF"
+        android:textSize="16sp">
+
+    </TextView>
+</LinearLayout>

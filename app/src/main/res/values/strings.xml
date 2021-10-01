@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">1lab</string>
+    <string name="button">Button</string>
+    <string name="push_me">Push me!</string>
+    <string name="image">Image</string>
+    <string name="hello_n_world">Hello\n World!</string>
+    <string name="push_mee">Push me!</string>
+    <string name="please_do_not_push_me">Please do NOT push me!</string>
+    <string name="just_some_text">Just some text</string>
+    <string name="avatar">avatar</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+</resources>
